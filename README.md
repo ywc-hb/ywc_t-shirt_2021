@@ -2,4 +2,4 @@
 
 
 # Les informations techniques #
-Vous pouvez retrouver les informations techniques dans le fichier [data.md](https://github.com/ywc-hb/ywc_t-shirt_2021/data.md)
+Vous pouvez retrouver les informations techniques dans le fichier [data.md](https://github.com/ywc-hb/ywc_t-shirt_2021/blob/master/data.md)
