@@ -12,17 +12,17 @@ Les nombres allant de 300 à 399 correspondent au code pour revivre.
 010 : Les pins touchés ne correspondent à aucune combinaison
 
 # Codes t-shirt droit #
-110 : Flèche Nord
-120 : Flèche Sud
-101 : Flèche Est
-102 : Flèche Ouest
-111 : Flèche Nord-Est
-112 : Flèche Nord-Ouest
-121 : Flèche Sud-Est
-122 : Flèche Sud-Ouest
+110 : Flèche Nord    
+120 : Flèche Sud    
+101 : Flèche Est    
+102 : Flèche Ouest    
+111 : Flèche Nord-Est    
+112 : Flèche Nord-Ouest    
+121 : Flèche Sud-Est    
+122 : Flèche Sud-Ouest    
 
-150 : Tirer
-160 : Recharger
+150 : Tirer    
+160 : Recharger    
 
 
 # Codes t-shirt gauche #
