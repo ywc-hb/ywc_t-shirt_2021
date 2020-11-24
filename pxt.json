@@ -1,5 +1,6 @@
 {
     "name": "ywc_t-shirt_2021",
+    "version": "0.0.1",
     "dependencies": {
         "core": "*",
         "radio": "*",
