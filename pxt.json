@@ -7,11 +7,12 @@
         "microphone": "*"
     },
     "files": [
-        "main.blocks",
         "main.ts",
         "README.md",
         "data.md",
-        "SendData.ts"
+        "SendData.ts",
+        "GetPins.ts",
+        "pins.md"
     ],
     "testFiles": [
         "test.ts"
