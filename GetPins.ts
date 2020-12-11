@@ -1,7 +1,7 @@
 function a2d(pin : AnalogPin) : boolean {
     /* Transforme une valeur analogique en une valeur numerique 
      * suivant la limite definie */
-    let limit: number = 600;
+    let limit: number = 325;
     if(pins.analogReadPin(pin) >= limit) {
         return true;
     }
